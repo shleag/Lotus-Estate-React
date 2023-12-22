@@ -11,9 +11,7 @@ const Home = (props) => {
         <title>Lotus Estate</title>
         <meta property="og:title" content="Lotus Estate" />
       </Helmet>
-      <div className="home-header">
-        <img src="/hottubandpool-1500w.jpg" className="home-image" />
-      </div>
+      <div className="home-header"></div>
     </div>
   )
 }
